@@ -78,6 +78,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		08773190215A7CBE003B2FCE /* ContractsTab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ContractsTab;
+			sourceTree = "<group>";
+		};
 		088C6E44214BE85400968D94 = {
 			isa = PBXGroup;
 			children = (
@@ -101,6 +108,7 @@
 		088C6E4F214BE85400968D94 /* ContractsApp */ = {
 			isa = PBXGroup;
 			children = (
+				08773190215A7CBE003B2FCE /* ContractsTab */,
 				088C6E50214BE85400968D94 /* AppDelegate.h */,
 				088C6E51214BE85400968D94 /* AppDelegate.m */,
 				088C6E53214BE85400968D94 /* ViewController.h */,
